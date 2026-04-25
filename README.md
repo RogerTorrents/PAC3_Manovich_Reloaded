@@ -22,7 +22,12 @@ Strava és una plataforma de rastreig d'activitat física que fusiona el rendime
 * **Deep Remixability (Remixabilitat profunda):** Strava no es limita a posar una foto al costat d'un mapa. El programari hibrida la **geolocalització (GPS)** amb la **visualització de dades biomètriques**. El resultat és un nou objecte cultural: el "segment" o el "heatmap", on l'esforç físic humà esdevé una interfície gràfica manipulable.
 * **La interfície com a mitjà:** La realitat física de córrer o anar en bicicleta queda absorbida per la interfície del programari. Com diu Manovich, el software redefineix el mitjà; en aquest cas, l'esport ja no és només moviment, sinó un flux de dades que es pot analitzar, comparar i compartir globalment.
 * **Escalabilitat i Variabilitat:** Una sola ruta pot ser visualitzada com un mapa 2D, un model 3D o una gràfica de desnivell. Aquesta variabilitat és una propietat fonamental del programari que transforma una activitat analògica en una experiència digital infinita.
-![StravaFoto](StravaFoto.jpg)
+
+<div align="center">
+  <img src="StravaFoto.jpg" width="700" alt="Strava Interface">
+  <p><i>Figura 1: Interfície d'Strava on s'aprecia l'hibridació de dades i cartografia.</i></p>
+</div>
+
 ---
 
 ## 3. Cas 2: Duolingo (Hibridació de l'aprenentatge i el videojoc)
@@ -34,7 +39,11 @@ Duolingo és una plataforma d'aprenentatge d'idiomes que ha transformat l'educac
 * **Hibridació de mitjans:** Duolingo representa la fusió de la **pedagogia lingüística** amb el **disseny de videojocs**. Les propietats del programari lúdic (nivells, barres d'energia, punts d'experiència) s'hibriden amb l'estudi d'una llengua. No és "aprendre jugant", és un nou format on la gramàtica es comporta com un motor de joc.
 * **Lògica de la base de dades:** Duolingo fragmenta el llenguatge en unitats discretes (mòduls). Seguint la tesi de Manovich sobre la primacia de la base de dades, el programari gestiona milers de frases i paraules que es combinen algorítmicament segons el progrés de l'usuari.
 * **Automatització i Variabilitat:** Gràcies a l'ús de la IA, el software automatitza l'ensenyament. El contingut no és fix (com un llibre de text), sinó que és variable: s'adapta en temps real a l'usuari, creant un itinerari d'aprenentatge únic que només és possible mitjançant la lògica del programari.
-![DuolingoFoto](DuolingoFoto.jpeg)
+
+<div align="center">
+  <img src="DuolingoFoto.jpeg" width="700" alt="Duolingo Interface">
+  <p><i>Figura 2: Gamificació i interfície d'usuari a Duolingo.</i></p>
+</div>
 
 ---
 
