@@ -34,7 +34,7 @@ Duolingo és una plataforma d'aprenentatge d'idiomes que ha transformat l'educac
 * **Hibridació de mitjans:** Duolingo representa la fusió de la **pedagogia lingüística** amb el **disseny de videojocs**. Les propietats del programari lúdic (nivells, barres d'energia, punts d'experiència) s'hibriden amb l'estudi d'una llengua. No és "aprendre jugant", és un nou format on la gramàtica es comporta com un motor de joc.
 * **Lògica de la base de dades:** Duolingo fragmenta el llenguatge en unitats discretes (mòduls). Seguint la tesi de Manovich sobre la primacia de la base de dades, el programari gestiona milers de frases i paraules que es combinen algorítmicament segons el progrés de l'usuari.
 * **Automatització i Variabilitat:** Gràcies a l'ús de la IA, el software automatitza l'ensenyament. El contingut no és fix (com un llibre de text), sinó que és variable: s'adapta en temps real a l'usuari, creant un itinerari d'aprenentatge únic que només és possible mitjançant la lògica del programari.
-![DuolingoFoto](DuolingoFoto.jpg)
+![DuolingoFoto](DuolingoFoto.jpeg)
 
 ---
 
